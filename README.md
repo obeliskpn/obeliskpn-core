@@ -81,9 +81,7 @@ This Python module generates the JSON configurations for our clients.
 
 ### 🔗 Stay Connected
 
-- **Website:** [obeliskpn.pw](https://obeliskpn.pw)
-- **Telegram Support:** [@obeliskpn_bot](https://t.me/your_bot_link)
-- **News Channel:** [Obelisk News](https://t.me/obeliskpn)
+- **Website:** [obeliskpn.pw on ru](https://obeliskpn.pw)
 
 ### 🚀 Why choose Obelisk PN?
 
@@ -170,7 +168,6 @@ Python-модуль для генерации JSON-конфигураций на
 ### 🔗 Связь с нами
 
 - **Сайт:** [obeliskpn.pw](https://obeliskpn.pw)
-- **Поддержка в Telegram:** [@obeliskpn_bot](https://t.me/your_bot_link)
 - **Канал с новостями:** [Obelisk News](https://t.me/obeliskpn)
 
 ### 🚀 Почему выбирают Obelisk PN?
